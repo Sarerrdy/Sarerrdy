@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a **web app food ordering system** using **Python, Flask, SQLAlchemy and MySql** on the backend and **React.js on the front end**🔥.
 
-- - 💬 Ask me about th progress of my Holidays **cabin booking management system** is going especially when using [supabase](https://supabase.com/) free online service api provider service
+- 💬 Ask me about th progress of my Holidays **cabin booking management system** is going especially when using [supabase](https://supabase.com/) free online service api provider service
 
 - 🌱 I’m always learning and exploring new technologies 🚀
 
