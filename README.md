@@ -1,5 +1,20 @@
 <h2 align="left">Hi 👋! My name is Edmond Ina and I'm a full Stack Web Developer, from Nigeria</h2>
 
+
+<h3 align="center">Enjoy the challenges of solving problems with software solutions.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarerrdy&label=Profile%20views&color=0e75b6&style=flat" alt="sarerrdy" /> </p>
+
+[![wakatime](https://wakatime.com/badge/user/34af7b01-c7bd-47a1-b409-c0cbf245d7cc.svg)](https://wakatime.com/@34af7b01-c7bd-47a1-b409-c0cbf245d7cc)
+
+- 🔭 I’m currently working on a **web app food ordering system** using **Python, Flask, SQLAlchemy and MySql** on the backend and **React.js on the front end**🔥.
+
+- - 💬 Ask me about th progress of my Holidays **cabin booking management system** is going especially when using [supabase](https://supabase.com/) free online service api provider service
+
+- 🌱 I’m always learning and exploring new technologies 🚀
+
+---
+
 ###
 
 <div align="center">
