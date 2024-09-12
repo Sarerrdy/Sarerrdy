@@ -7,7 +7,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/34af7b01-c7bd-47a1-b409-c0cbf245d7cc.svg)](https://wakatime.com/@34af7b01-c7bd-47a1-b409-c0cbf245d7cc)
 
-- 🔭 I’m currently working on a **food ordering web app** using **Python, Flask, SQLAlchemy and MySql** on the backend and **React.js on the front end**🔥.
+- 🔭 I’m currently working on a [**food ordering web app**](/mama_put.git) using **Python, Flask, SQLAlchemy and MySql** on the backend and **React.js on the front end**🔥.
 
 - 💬 Ask me about th progress of my Holidays **cabin booking management system** is going especially when using [supabase](https://supabase.com/) free online service api provider service
 
