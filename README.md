@@ -7,7 +7,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/34af7b01-c7bd-47a1-b409-c0cbf245d7cc.svg)](https://wakatime.com/@34af7b01-c7bd-47a1-b409-c0cbf245d7cc)
 
-- 🔭 I’m currently working on a **MamaPut food ordering webapp** whose [**Api Backend **](https://github.com/Sarerrdy/mama_put.git) is using **Python, Flask, SQLAlchemy and MySql** and a [**React.js front end**](https://github.com/Sarerrdy/mamaputapp.git)🔥.
+- 🔭 I’m currently working on a **MamaPut food ordering webapp** whose [Api Backend](https://github.com/Sarerrdy/mama_put.git) is using **Python, Flask, SQLAlchemy and MySql** and a [**React.js front end**](https://github.com/Sarerrdy/mamaputapp.git)🔥.
 
 - 💬 Ask me about th progress of my Holidays [**cabin booking management system**](https://github.com/Sarerrdy/the-wild-oasis.git) is going especially when using [supabase](https://supabase.com/) free online service api provider service
 
