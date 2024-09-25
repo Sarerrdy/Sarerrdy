@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a **MamaPut food ordering webapp** whose [Api Backend](https://github.com/Sarerrdy/mama_put.git) is using **Python, Flask, SQLAlchemy and MySql** and a [**React.js front end**](https://github.com/Sarerrdy/mamaputapp.git)🔥.
 
-- 💬 Ask me about th progress of my Holidays [**cabin booking management system**](https://github.com/Sarerrdy/the-wild-oasis.git) is going especially when using [supabase](https://supabase.com/) free online service api provider service
+- 💬 Ask me about th progress of my Holidays [**cabin booking management system**](https://github.com/Sarerrdy/the-wild-oasis.git) is going especially when using [supabase](https://supabase.com/) free online api service provider
 
 - 🌱 I’m always learning and exploring new technologies 🚀
 
