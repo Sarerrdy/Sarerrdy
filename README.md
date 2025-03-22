@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on a **[MamaPut food ordering web app](https://mamaputapp.onrender.com/)** whose [Api Backend](https://github.com/Sarerrdy/mama_put.git) is using **Python, Flask, SQLAlchemy and MySql** and a [**React.js front end**](https://github.com/Sarerrdy/mamaputapp.git)🔥.
 
-- 💬 Ask me about the progress of the QuickProFixer Project [**Artisans and clients MarketPlace App**](https://github.com/Sarerrdy/quickprofixer.git). You can track progress of the ongoing backend in Asp.NetCore 8 here 👉 [**Backend**](https://github.com/Sarerrdy/quickprofixer.git) and React.js and typescript frontend here 👉 [**Frontend**](https://github.com/Sarerrdy/quickprofixer-frontend.git)
+- 💬 Ask me about the progress of the [**QuickProFixer Project**](https://github.com/Sarerrdy/quickprofixer.git), an Artisan and clients MarketPlace App. You can track progress of the ongoing backend in Asp.NetCore 8 here 👉 [**Backend**](https://github.com/Sarerrdy/quickprofixer.git) and React.js and typescript frontend here 👉 [**Frontend**](https://github.com/Sarerrdy/quickprofixer-frontend.git)
 
-- 🌱 I’m always learning and exploring new technologies 🚀
+- 🌱 I explore. Learn. Apply. Test. and Repeat new technologies and frameworks 🚀
 
 ---
 
