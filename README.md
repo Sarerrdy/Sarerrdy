@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a **[MamaPut food ordering web app](https://mamaputapp.onrender.com/)** whose [Api Backend](https://github.com/Sarerrdy/mama_put.git) is using **Python, Flask, SQLAlchemy and MySql** and a [**React.js front end**](https://github.com/Sarerrdy/mamaputapp.git)🔥.
 
-- 💬 Ask me about th progress of my Holidays [**cabin booking management system**](https://github.com/Sarerrdy/the-wild-oasis.git) is going especially when using [supabase](https://supabase.com/) free online api service provider
+- 💬 Ask me about the progress of the QuickProFixer Project [**Artisans and clients MarketPlace App**](https://github.com/Sarerrdy/quickprofixer.git). You can track progress of the ongoing backend in Asp.NetCore 8 here 👉 [**Backend**](https://github.com/Sarerrdy/quickprofixer.git) and React.js and typescript frontend here 👉 [**Frontend**](https://github.com/Sarerrdy/quickprofixer-frontend.git)
 
 - 🌱 I’m always learning and exploring new technologies 🚀
 
